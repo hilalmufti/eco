@@ -1,0 +1,38 @@
+; Jacking in...
+; Using host:port localhost:61768 ...
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉user꞉> 
+"Please see https://calva.io/output/#about-stdout-in-the-repl-window
+about why stdout printed to this file is prepended with `;` to be line comments."
+clj꞉user꞉> 
+; Jack-in done.
+clj꞉user꞉> 
+; Evaluating file: hello_repl.clj
+"hello_repl.clj is loaded, and ready with some things for you to try."
+clj꞉get-started.hello-repl꞉> 
+; Connecting using "Babashka" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+
+; nREPL Connection was closed
+; Starting Jack-in Terminal: (cd /Users/hilalmufti/programs/eco; bb --nrepl-server 61777)
+
+; Jacking in...
+; Connecting using "Babashka" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+
+; Starting Jack-in Terminal: (cd /Users/hilalmufti/programs/eco; bb --nrepl-server 61784)
+; Interrupting Jack-in process.
+; Jacking in...
+; Connecting using "Babashka" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+
+; Starting Jack-in Terminal: (cd /Users/hilalmufti/programs/eco; bb --nrepl-server 61801)
